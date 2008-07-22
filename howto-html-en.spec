@@ -1,4 +1,4 @@
-%define DATE	20040814
+%define DATE	20080722
 %define    language  English
 %define    lang      en
 %define format1      html-%{lang}
@@ -6,8 +6,8 @@
 
 Summary:   %language HOWTO documents (html format) from the Linux Documentation Project
 Name:      howto-%{format1}
-Version:	10.1
-Release:	%mkrel 4
+Version:	%DATE
+Release:	%mkrel 1
 Group:		Books/Howtos
 
 # lftp ibiblio.org:/pub/Linux/docs/HOWTO/other-formats/html> Linux-html-HOWTOs-%DATE.tar.bz2
