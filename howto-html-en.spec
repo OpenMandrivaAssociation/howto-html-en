@@ -7,7 +7,7 @@
 Summary:	%{language} HOWTO documents (html format) from the Linux Documentation Project
 Name:		howto-%{format1}
 Version:	%DATE
-Release:	14
+Release:	15
 Group:		Books/Howtos
 
 # lftp ibiblio.org:/pub/Linux/docs/HOWTO/other-formats/html> Linux-html-HOWTOs-%DATE.tar.bz2
