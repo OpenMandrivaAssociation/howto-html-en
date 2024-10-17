@@ -13,7 +13,7 @@ Group:		Books/Howtos
 # lftp ibiblio.org:/pub/Linux/docs/HOWTO/other-formats/html> Linux-html-HOWTOs-%DATE.tar.bz2
 Source0:	%{name}.tar
 
-Url:		http://www.linuxdoc.org/docs.html#howto
+Url:		https://www.linuxdoc.org/docs.html#howto
 License:	GPLv2
 BuildRoot:	%{_tmppath}/%{name}-root
 BuildArch:	noarch
